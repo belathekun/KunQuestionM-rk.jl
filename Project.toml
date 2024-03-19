@@ -1,7 +1,7 @@
 name = "KunQuestionMаrk"
 uuid = "0993df27-7d5b-4c02-8daf-d269454f4300"
 authors = ["belathekun"]
-version = "1.0.0-DEV"
+version = "1.0.0"
 
 [compat]
 julia = "1"
